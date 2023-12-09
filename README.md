@@ -3,7 +3,7 @@
 
 ### Hi, Welcome to my GitHub profile
 
-## I'm working on 
+# I'm working on 
 - ⚛️ React for dynamic UI design
 - 🌀 Tailwind CSS for sleek styles
 - 🔥 Firebase for real-time data and authentication
@@ -13,7 +13,7 @@
 🌐 Always exploring new technologies to build amazing projects!
 
 
-## Technology that I experienced
+# Technology that I experienced
 
 <!-- First Row -->
 <p align="center">
@@ -32,3 +32,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" width="150" height="150">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="150" height="150">
 </p>
+
+# 📈 My Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
